@@ -10,4 +10,4 @@
 - type-3 : cat nmea/3.txt | go run . > output/3.log
 
 ## doc
-- [medium]()
+- [medium](https://andriantriputra.medium.com/golang-ais-automatic-identification-system-ebd8802d60e8)
