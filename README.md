@@ -11,3 +11,5 @@
 
 ## doc
 - [medium](https://andriantriputra.medium.com/golang-ais-automatic-identification-system-ebd8802d60e8)
+- [decoder](https://www.maritec.co.za/aisvdmvdodecoding)
+
